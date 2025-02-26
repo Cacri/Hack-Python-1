@@ -1,35 +1,3 @@
-# SOCIAL OPLESK
-### 🏴‍☠️ HACKS 
-
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
-
-```diff
-* 1) Tienes que clonar el repositorio 
-  git clone https://github.com/SocialOplesk/hack_python_1.git
-  
-* 2) Instalar los paquetes
-  pip install -r requirements.txt
-
-* 3) Para validar los hacks
-  pytest test_hack.py -v (ejecuta todos los test)
-  pytest test_hack.py::test_hack_1 (ejecuta un test en específico)
-  pytest test_hack.py::test_hack_3 -v (ejecuta un test en específico)
-
-  ✔ NOTA: en caso de no reconocer el comando "pytest"
-          ejecutar el pytest así: python -m pytest test_hack.py -v
-       
-```
-#### 🎬 Clonar Repo + Instalar requirements
-![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_install.gif)
-
-<br/>
 
 |Hacks | Details | 
 |----------|---------|
