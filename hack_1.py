@@ -2,7 +2,9 @@
 text: "fooziman" output => "FOOZIMAN"
 """
 
+
 def fn_hack_1():
+    """hola"""
     result = "fooziman"
-    #...
-    return result  
+    result = result.upper()
+    return result
